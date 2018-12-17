@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Rect r = new Rect();
 		r.drawRect();
+		
 
 	}
 
