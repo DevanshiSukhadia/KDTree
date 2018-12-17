@@ -120,11 +120,7 @@ public class Rect extends JPanel
 	
 }
 
-/*
- * g.fillOval(x-coordinate,y-coordinate,radius,radius);
- * g.drawString("text",x-coordinate, y-coordinate);
- * g.drawLine(Starting x, Starting y, Ending x, Ending y);
- * */
+
 
 
 
