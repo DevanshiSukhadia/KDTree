@@ -5,9 +5,9 @@ public class KDTree extends Node{
 	
 	// Represents direction of the partition
 	private static final boolean VERTICAL = true;
-    	private static final boolean HORIZOTAL = false;
+    private static final boolean HORIZOTAL = false;
 	
-	private Node root;
+	//private Node root;
 	private int size;
 	
 	// default empty tree
@@ -19,7 +19,7 @@ public class KDTree extends Node{
 	// Insert 2D points into the tree
 	 public void insert(Point2D p) {
 	        if (p == null) 
-	        	return;
+	        		return;
 	        root = insert(root, p);
 	 }
 	 
