@@ -1,3 +1,4 @@
+import java.awt.geom.Point2D;
 
 public class Main {
 
@@ -5,8 +6,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		Rect r = new Rect();
 		r.drawRect();
-		
-
 	}
 
 }
